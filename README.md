@@ -1,10 +1,12 @@
 # preview-card
+
 Front-end mentor Challenge
 
-## 🚀 Demostración 
+## 🚀 Demostración
 
-- [Live site](
-https://647a74aa65687c1aff6b2688--nimble-genie-69892e.netlify.app/)
+![alt text](/preview-card/src/assets/desktop-preview.jpg)
+
+- [Live site](https://647a74aa65687c1aff6b2688--nimble-genie-69892e.netlify.app/)
 
 ## 🧰 Tecnologías
 
@@ -15,7 +17,7 @@ El proyecto se creó utilizando las siguientes tecnologías:
 - [Vite](https://vitejs.dev/)
 - [Netlify](https://www.netlify.com/)
 
-## 📦 Instalación 
+## 📦 Instalación
 
 Para ejecutar este proyecto localmente, necesitarás tener Node.js y npm instalados en tu ordenador. Luego sigue estos pasos:
 
@@ -24,10 +26,11 @@ Para ejecutar este proyecto localmente, necesitarás tener Node.js y npm instala
   git clone https://github.com/moilu/preview-card
   cd preview-card
 
-  
+
   # Instala las dependencias
   npm install
-  
+
   # Inicia el servidor de desarrollo local
   npm run dev
 
+```

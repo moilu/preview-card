@@ -4,7 +4,7 @@ Front-end mentor Challenge
 
 ## 🚀 Demostración
 
-![Preview site](/preview-card/src/assets/desktop-preview.jpg?raw=true)
+![Preview site](/src/assets/desktop-preview.jpg?raw=true)
 
 - [Live site](https://647a74aa65687c1aff6b2688--nimble-genie-69892e.netlify.app/)
 

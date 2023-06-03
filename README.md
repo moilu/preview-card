@@ -22,7 +22,8 @@ Para ejecutar este proyecto localmente, necesitarás tener Node.js y npm instala
 ```bash
   # Clona el repositorio
   git clone https://github.com/moilu/preview-card
-  cd nombre_del_proyecto
+  cd preview-card
+
   
   # Instala las dependencias
   npm install
